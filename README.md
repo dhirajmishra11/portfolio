@@ -35,18 +35,9 @@ My personal portfolio website featuring my projects and technical skills.<br/>
 This project was built using these technologies:
 
 - React.js
-- Node.js
 - CSS3
 - VsCode
-- Vercel
 
-## Features
-
-**📖 Multi-Page Layout**
-
-**🎨 Styled with React-Bootstrap and CSS**
-
-**📱 Fully Responsive**
 
 ## Getting Started
 
@@ -70,5 +61,3 @@ You will find all the components used and you can edit your information accordin
 ### Show your support
 
 Give a ⭐ if you like this website!
-
-<a href="https://www.buymeacoffee.com/dhirajmishra" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
